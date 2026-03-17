@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/NBOZA2808/AML-Final-Boza-Solis-Nelson/blob/main/notebooks/final_project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1S_czo01j8ytWz6zYYBKic8j7PeUMrzSm?authuser=3#scrollTo=Pix0LGEur0ei)
 
 ### Notebook del Proyecto Final
 
